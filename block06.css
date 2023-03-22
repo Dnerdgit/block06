@@ -1,0 +1,51 @@
+
+h1 {
+    text-align: center;
+    color: crimson;
+    background-color: rgb(10, 83, 218);
+}
+
+h2 {
+    font-size: 30px;
+    background-color: rgb(199, 141, 17);
+    color:rgb(25, 39, 46);
+    padding: 5px 210px 0px 0px;
+    margin: 50px 0px 40px 0px;
+    border: 1px solid #466995;
+    display: inline-block;
+}
+
+
+
+th {
+    font-size: 20px;
+    background-color: gray;
+    border: 1px solid #466995;
+}
+
+.freezer {
+    position: relative;
+}
+
+ul {
+    background-color: gray;
+    padding: 5px 30px 5px 50px;
+    border: 1px solid #466995;
+    display: inline-block;
+}
+
+li {
+    background-color: gray;
+}
+
+img {
+   
+    position: relative;
+    right: 5px;
+    height: 200px;
+    width: 290px;    
+    margin: 20px 0px 80px 50px;
+    padding: 1px;
+    border:1px solid #438;
+ 
+}
